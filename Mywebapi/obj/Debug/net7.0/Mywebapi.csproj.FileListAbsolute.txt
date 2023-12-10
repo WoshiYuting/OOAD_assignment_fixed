@@ -1,0 +1,7 @@
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.csproj.AssemblyReference.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.AssemblyInfoInputs.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.AssemblyInfo.cs
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.csproj.CoreCompileInputs.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.MvcApplicationPartsAssemblyInfo.cs
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\Mywebapi\obj\Debug\net7.0\Mywebapi.MvcApplicationPartsAssemblyInfo.cache

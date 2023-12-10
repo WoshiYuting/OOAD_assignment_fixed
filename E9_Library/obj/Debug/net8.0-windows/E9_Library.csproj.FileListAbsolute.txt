@@ -1,0 +1,80 @@
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Mywebapi.deps.json
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Mywebapi.runtimeconfig.json
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\appsettings.Development.json
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\appsettings.json
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Mywebapi.exe
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\E9_Library.exe
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\E9_Library.deps.json
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\E9_Library.runtimeconfig.json
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\E9_Library.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\E9_Library.pdb
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Microsoft.AspNetCore.OpenApi.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Mywebapi.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\bin\Debug\net8.0-windows\Mywebapi.pdb
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.AssemblyReference.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.Book.resources
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.Category.resources
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.Librarian.resources
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.Main.resources
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.Reader.resources
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.GenerateResource.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.AssemblyInfoInputs.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.AssemblyInfo.cs
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.CoreCompileInputs.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.CopyComplete
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\refint\E9_Library.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.pdb
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.genruntimeconfig.cache
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\ref\E9_Library.dll
+D:\019-Year4\01-Semester1\01-OOAD And Pro\02-Asssignment\E9_Library\obj\Debug\net8.0-windows\E9_Library.sourcelink.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Mywebapi.deps.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Mywebapi.runtimeconfig.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Mywebapi.exe
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\E9_Library.exe
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\E9_Library.deps.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\E9_Library.runtimeconfig.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\E9_Library.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\E9_Library.pdb
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Mywebapi.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\bin\Debug\net8.0-windows\Mywebapi.pdb
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.Book.resources
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.Category.resources
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.Librarian.resources
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.Main.resources
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.Reader.resources
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.GenerateResource.cache
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.AssemblyInfo.cs
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.sourcelink.json
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.csproj.CopyComplete
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\refint\E9_Library.dll
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.pdb
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\E9_Library.genruntimeconfig.cache
+C:\Users\USer\source\repos\AssignmentOOAD\E9_Library\obj\Debug\net8.0-windows\ref\E9_Library.dll
